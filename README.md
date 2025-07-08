@@ -1,4 +1,4 @@
-# 🚀 Custom DDR4 Memory Controller
+# 🚀 DDR4 Subsystem
 
 This project implements a custom DDR4 memory controller system in Verilog, designed for high-speed data transactions between a processor and DDR4 SDRAM modules. The architecture includes three key modules: the DDR Controller, the DDR PHY Interface (DFI), and the DDR4 Memory Module.
 
